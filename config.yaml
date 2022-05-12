@@ -1,0 +1,59 @@
+baseURL: https://punkt-a.net/
+theme: minimal-event-location
+title: Punkt A
+
+languageCode: de-de
+timeZone: Europe/Berlin
+defaultContentLanguage: de
+languages:
+  de:
+    weight: 1
+  en:
+    weight: 2
+
+params:
+  location: Spot
+  event: Training
+  logo:
+    path: /images/logo.svg
+    line1: Punkt A
+    line2: Parkour in Hamburg
+  umap: https://umap.openstreetmap.fr/en/map/punkt-a-spots_746905?feature=$$Feature#12/53.5461/10.0243
+  footer:
+    url: https://creativecommons.org/publicdomain/zero/1.0/
+    logos:
+      - path: /images/a-circle.svg
+        alt: A in a circle
+      - path: /images/cc-zero.svg
+        alt: CC0 sign
+      - path: /images/public-domain.svg
+        alt: No copyright/public domain sign
+
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+enableRobotsTXT: yes
+
+menu:
+  main:
+    - name: Trainings
+      url: events/
+      weight: 1
+    - name: Spots
+      url: locations/
+      weight: 2
+    - name: About
+      url: about/
+      weight: 3
+    - name: FAQ
+      url: faq/
+      weight: 4
+
+outputs:
+  section:
+    - HTML
+    - RSS
+    - GEOJSON
+taxonomies:
+  category: categories
+  locationtag: locationtags
