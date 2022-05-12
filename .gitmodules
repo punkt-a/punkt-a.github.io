@@ -1,0 +1,3 @@
+[submodule "themes/minimal-event-location"]
+	path = themes/minimal-event-location
+	url = git@github.com:punkt-a/hugo-minimal-event-location.git
