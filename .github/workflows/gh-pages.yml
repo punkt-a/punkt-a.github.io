@@ -5,6 +5,8 @@ on:
     branches:
       - main
   pull_request:
+  schedule:
+    - cron: '0 */2 * * *'
 
 jobs:
   deploy:
@@ -21,7 +23,7 @@ jobs:
           hugo-version: '0.89.4'
 
       - name: Build
-        run: hugo # --minify
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
