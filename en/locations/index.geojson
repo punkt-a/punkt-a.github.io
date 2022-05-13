@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Schleemer Park (Billstedt)",
-                "description": "Kaspar-Siemers-Stieg 7\n22117 Hamburg"
+                "description": "Kaspar-Siemers-Stieg 7\n22117 Hamburg\nhttps://www.punkt-a.net/en/locations/billstedt_schleemer-park/"
             },
             "geometry": {
                 "type": "Point",
@@ -19,7 +19,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Legien-Center (Horn)",
-                "description": "Kirchlinden 2\n22111 Hamburg"
+                "description": "Kirchlinden 2\n22111 Hamburg\nhttps://www.punkt-a.net/en/locations/horn_legien-center/"
             },
             "geometry": {
                 "type": "Point",
@@ -33,7 +33,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Elbstraße (Altona)",
-                "description": "Große Elbstraße 33\n22767 Hamburg"
+                "description": "Große Elbstraße 33\n22767 Hamburg\nhttps://www.punkt-a.net/en/locations/altona_elbstrasse/"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Fischmarkt (Altona)",
-                "description": "St. Pauli Fischmarkt 23\n20359 Hamburg"
+                "description": "St. Pauli Fischmarkt 23\n20359 Hamburg\nhttps://www.punkt-a.net/en/locations/altona_fischmarkt/"
             },
             "geometry": {
                 "type": "Point",
@@ -61,7 +61,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Holzhafen (Altona)",
-                "description": "Große Elbstraße 63\n22767 Hamburg"
+                "description": "Große Elbstraße 63\n22767 Hamburg\nhttps://www.punkt-a.net/en/locations/altona_holzhafen/"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +75,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Minerva-Brunnen (Altona)",
-                "description": "Fischmarkt 16\n22767 Hamburg"
+                "description": "Fischmarkt 16\n22767 Hamburg\nhttps://www.punkt-a.net/en/locations/altona_minerva-brunnen/"
             },
             "geometry": {
                 "type": "Point",
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "name": "BS Ankelmannstraße (Borgfelde)",
-                "description": "Anckelmannstraße 10\n20537 Hamburg"
+                "description": "Anckelmannstraße 10\n20537 Hamburg\nhttps://www.punkt-a.net/en/locations/borgfelde_bs-ankelmannstrasse/"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +103,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Betonboote (HafenCity)",
-                "description": "Großer Grasbrook 19\n20457 Hamburg"
+                "description": "Großer Grasbrook 19\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_betonboote/"
             },
             "geometry": {
                 "type": "Point",
@@ -117,7 +117,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Elbphilharmonie (HafenCity)",
-                "description": "Am Sandtorkai 75\n20457 Hamburg"
+                "description": "Am Sandtorkai 75\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_elbphilharmonie/"
             },
             "geometry": {
                 "type": "Point",
@@ -131,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Gitterstufen (HafenCity)",
-                "description": "Überseeallee 4\n20457 Hamburg"
+                "description": "Überseeallee 4\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_gitterstufen/"
             },
             "geometry": {
                 "type": "Point",
@@ -145,7 +145,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Granitsäulen (HafenCity)",
-                "description": "Brooktorpromenade\n20457 Hamburg"
+                "description": "Brooktorpromenade\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_granitsaeulen/"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +159,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Magellan-Terrassen (HafenCity)",
-                "description": "Magellan-Terrassen\n20457 Hamburg"
+                "description": "Magellan-Terrassen\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_magellan-terrassen/"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +173,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Marco-Polo-Terrassen (HafenCity)",
-                "description": "Marco-Polo-Terrassen\n20457 Hamburg"
+                "description": "Marco-Polo-Terrassen\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_marco-polo-terrassen/"
             },
             "geometry": {
                 "type": "Point",
@@ -187,7 +187,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Unimensa (HafenCity)",
-                "description": "Henning-Voscherau-Platz\n20457 Hamburg"
+                "description": "Henning-Voscherau-Platz\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_unimensa/"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +201,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Vasco-da-Gama-Platz (HafenCity)",
-                "description": "Vasco-da-Gama-Platz\n20457 Hamburg"
+                "description": "Vasco-da-Gama-Platz\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_vasco-da-gama-platz/"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +215,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wallrunmauer (HafenCity)",
-                "description": "Brooktorpromenade\n20457 Hamburg"
+                "description": "Brooktorpromenade\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_wallrunmauer/"
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +229,7 @@
             "type": "Feature",
             "properties": {
                 "name": "BS Burgstraße (Hamm)",
-                "description": "Burgstraße 33\n20535 Hamburg"
+                "description": "Burgstraße 33\n20535 Hamburg\nhttps://www.punkt-a.net/en/locations/hamm_bs-burgstrasse/"
             },
             "geometry": {
                 "type": "Point",
@@ -243,7 +243,7 @@
             "type": "Feature",
             "properties": {
                 "name": "S Hammerbrook (Hammerbrook)",
-                "description": "Hammerbrookstraße 15\n20097 Hamburg"
+                "description": "Hammerbrookstraße 15\n20097 Hamburg\nhttps://www.punkt-a.net/en/locations/hammerbrook_s-hammerbrook/"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +257,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Geisterspielplatz (Hoheluft)",
-                "description": "Wrangelstraße 81\n20253 Hamburg"
+                "description": "Wrangelstraße 81\n20253 Hamburg\nhttps://www.punkt-a.net/en/locations/hoheluft_geisterspielplatz/"
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +271,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Michel (Innenstadt)",
-                "description": "Krayenkamp 20\n20459 Hamburg"
+                "description": "Krayenkamp 20\n20459 Hamburg\nhttps://www.punkt-a.net/en/locations/innenstadt_michel/"
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +285,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Michelwiese (Innenstadt)",
-                "description": "Hohler Weg 9\n20459 Hamburg"
+                "description": "Hohler Weg 9\n20459 Hamburg\nhttps://www.punkt-a.net/en/locations/innenstadt_michelwiese/"
             },
             "geometry": {
                 "type": "Point",
@@ -299,7 +299,7 @@
             "type": "Feature",
             "properties": {
                 "name": "ITECH (Wilhelmsburg)",
-                "description": "Dratelnstraße 26\n21109 Hamburg"
+                "description": "Dratelnstraße 26\n21109 Hamburg\nhttps://www.punkt-a.net/en/locations/wilhelmsburg_itech/"
             },
             "geometry": {
                 "type": "Point",
