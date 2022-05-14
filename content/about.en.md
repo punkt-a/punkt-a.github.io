@@ -8,7 +8,7 @@ All trainings are open to everyone. You're welcome here, no matter what your par
 
 All training you're seeing here will take place. Sometimes we move on to another spot during a training so you should be at the given spot on time when nobody else knows that you'll come to the training. When it starts raining rather unexpectedly right before the training, we sometimes change the spot and also update the training entry here: It makes sense to look into it again right before the training.
 
-For planning and communication purposes we also have a chat group in the messenger [Signal](https://signal.org/). Nevertheless all training will be posted on this website. To join the chat group, just ask when we meet at a training. For any questions or feedback contact us via e-mail: **punkt-aⒶmailbox.org**.
+For planning and communication purposes we also have a chat group in the messenger [Signal](https://signal.org/). Nevertheless all training will be posted on this website. To join the chat group, just ask when we meet at a training. For any questions or feedback contact us via e-mail at {{< nobreak >}}**punkt-aⒶmailbox.org**{{< /nobreak >}}.
 
 Ableism, antisemitism, hatred against queer people, racism, sexism and other discriminatory ideologies and behaviors are not welcome. That doesn't mean we're all free from these kinds of internalized patterns of thought or behavior. But we expect from all participants to develop self-awareness in that regard and not further reproduce all this. If you have any fundamental problems with that, don't come to any trainings.
 
