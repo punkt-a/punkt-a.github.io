@@ -2,7 +2,7 @@
 title: About
 ---
 # About
-We are a few people that like to train Parkour together and outside. All trainings are free of charge and everyone's acting on their own responsibility. There are no official trainers, we're not a registered association and there are also no permanent "leaders". All people interested should be able to use this platform to organize trainings with others.
+We are a few people that like to train Parkour together and outside in Hamburg. All trainings are free of charge and everyone's acting on their own responsibility. There are no official trainers, we're not a registered association and there are also no permanent "leaders". All people interested should be able to use this platform to organize trainings with others.
 
 All trainings are open to everyone. You're welcome here, no matter what your parkour skills, your overall "fitness" or your motives to train parkour are.
 

@@ -8,8 +8,12 @@ defaultContentLanguage: de
 languages:
   de:
     weight: 1
+    params:
+      defaultSummary: Zusammen, kostenlos und draußen Parkour in Hamburg trainieren.
   en:
     weight: 2
+    params:
+      defaultSummary: Zusammen, kostenlos und draußen Parkour in Hamburg trainieren.
 
 params:
   location: Spot

@@ -2,7 +2,7 @@
 title: About
 ---
 # About
-Wir sind ein paar Menschen, die gerne zusammen und draußen Parkour trainieren. Alle Trainings sind kostenlos und finden komplett eigenverantwortlich statt. Es gibt hier keine offiziellen Trainer\*innen, wir sind kein Verein und es soll auch keine festen "Leiter\*innen" geben. Alle Interessierten sollen die Möglichkeit haben, diese Plattform zur Organisation gemeinsamer Trainings zu nutzen.
+Wir sind ein paar Menschen, die gerne zusammen und draußen in Hamburg Parkour trainieren. Alle Trainings sind kostenlos und finden komplett eigenverantwortlich statt. Es gibt hier keine offiziellen Trainer\*innen, wir sind kein Verein und es soll auch keine festen "Leiter\*innen" geben. Alle Interessierten sollen die Möglichkeit haben, diese Plattform zur Organisation gemeinsamer Trainings zu nutzen.
 
 Alle Trainings sind offen für alle. Ihr seid unabhängig von euren Fähigkeiten in Sachen Parkour, eurer allgemeinen "Fitness" oder euren Motiven, aus denen ihr Parkour trainieren wollt, willkommen.
 
