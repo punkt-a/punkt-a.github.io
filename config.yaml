@@ -13,7 +13,7 @@ languages:
   en:
     weight: 2
     params:
-      defaultSummary: Zusammen, kostenlos und draußen Parkour in Hamburg trainieren.
+      defaultSummary: Do Parkour together, free of charge and outside in Hamburg.
 
 params:
   location: Spot
@@ -22,7 +22,7 @@ params:
     path: /images/logo.svg
     line1: Punkt A
     line2: Parkour in Hamburg
-  umap: https://umap.openstreetmap.fr/en/map/punkt-a-spots_746905?feature=$$Feature#12/53.5461/10.0243
+  umap: https://umap.openstreetmap.fr/en/map/punkt-a-spots_746905
   footer:
     url: https://creativecommons.org/publicdomain/zero/1.0/
     logos:
@@ -58,6 +58,7 @@ outputs:
     - HTML
     - RSS
     - GEOJSON
+
 taxonomies:
   category: categories
   locationtag: locationtags
