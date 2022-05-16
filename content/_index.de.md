@@ -1,5 +1,5 @@
 ---
-title: Punkt A
+title: Punkt A - Parkour in Hamburg
 ---
 # Punkt&nbsp;A
 ## Parkour in Hamburg
