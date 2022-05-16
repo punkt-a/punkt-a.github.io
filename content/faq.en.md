@@ -3,7 +3,7 @@ title: FAQ
 ---
 # FAQ
 
-# Participate
+## Participate
 {{< qa "How do I participate?" >}}
 Just join us at one of the trainings.
 {{< /qa >}}
