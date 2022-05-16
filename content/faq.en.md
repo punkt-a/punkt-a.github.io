@@ -72,10 +72,13 @@ Parkour is often described as a method to get from point A to point B. "Punkt A"
 This website was created using the static website generator [Hugo](https://gohugo.io/). The source code for this site can be found on [GitHub](https://github.com/punkt-a/punkt-a.github.io) and it's also hosted using GitHub Pages. The theme was created from ground up just for this website. If you want a similar website and need help, feel free to get in touch via e-mail: punkt-aⒶmailbox.org.
 {{< /qa >}}
 {{< qa "Is there an RSS feed?" >}}
-Yes, one for [trainings](/events/index.xml) and one for [spots](/locations/index.xml).
+Yes, one for [trainings](/en/events/index.xml) and one for [spots](/en/locations/index.xml).
 {{< /qa >}}
 {{< qa "Is there a map with all spots?" >}}
-Yes, all spots are continuously combined into a [.geojson file](/locations/index.geojson) which is used as source data for [uMap based on OpenStreetMap](https://umap.openstreetmap.fr/en/map/punkt-a-spots_746905).
+Yes, all spots are continuously combined into a [.geojson file](/en/locations/index.geojson) which is used as source data for [uMap based on OpenStreetMap](https://umap.openstreetmap.fr/en/map/punkt-a-spots_746905).
+{{< /qa >}}
+{{< qa "Is there a calendar with all trainings?" >}}
+All trainings are continuously combined into a [.ics file](/en/events/index.ics). This URL can be used to add all trainings to your own calendar app. Specify the URL in the application (instead of downloading and importing the file) so your calendar stays synchronized.
 {{< /qa >}}
 {{< qa "I have further questions!" >}}
 Contact us via e-mail at punkt-aⒶmailbox.org. 

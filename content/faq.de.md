@@ -76,6 +76,9 @@ Ja, für die [Trainings](/events/index.xml) und auch für die [Spots](/locations
 {{< qa "Gibt es eine Karte mit allen Spots?" >}}
 Die Spots werden kontinuierlich zu einer [.geojson-Datei](/locations/index.geojson) verarbeitet, die dann als Grundlage für eine [OpenStreetMap-basierte uMap](https://umap.openstreetmap.fr/en/map/punkt-a-spots_746905) verwendet wird.
 {{< /qa >}}
+{{< qa "Gibt es einen Kalender mit allen Trainings?" >}}
+Die Trainings werden kontinuierlich zu einer [.ics-Datei](/events/index.ics) verarbeitet. Die URL kann dann in diversen Kalenderanwendungen als neuer Kalender eingebunden werden. Die URL sollte in der Anwendung direkt angegeben werden (statt die Datei herunterzuladen und zu importieren), dann bleibt der Kalender synchronisiert.
+{{< /qa >}}
 {{< qa "Ich habe weitere Fragen!" >}}
 Bei weiteren Fragen, schreibt einfach eine E-Mail an punkt-aⒶmailbox.org.
 {{< /qa >}}

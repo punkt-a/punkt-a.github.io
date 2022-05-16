@@ -18,6 +18,7 @@ languages:
 params:
   location: Spot
   event: Training
+  timezone: Europe/Berlin
   logo:
     path: /images/logo.svg
     line1: Punkt A
@@ -58,6 +59,7 @@ outputs:
     - HTML
     - RSS
     - GEOJSON
+    - ICS
 
 taxonomies:
   category: categories
