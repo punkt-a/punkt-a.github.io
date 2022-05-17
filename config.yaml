@@ -16,6 +16,7 @@ languages:
       defaultSummary: Do Parkour together, free of charge and outdoors in Hamburg.
 
 params:
+  email: punkt-aⒶsystemli.org
   location: Spot
   event: Training
   timezone: Europe/Berlin

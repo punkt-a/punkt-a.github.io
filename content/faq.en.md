@@ -17,7 +17,7 @@ Click on "Trainings" at the top of the site, you'll see all upcoming (and past) 
 It's in every training entry under "Spot". You can click the spot there to get to the spot entry. The links there will lead you to the exact location.
 {{< /qa >}}
 {{< qa "Can I get notifications for newly added trainings?" >}}
-You can get informed about changes in the trainings list via [Signal messenger](https://signal.org) (get in touch via e-mail or during a training session for more details) oder subscribe to our [mailing list](https://lists.riseup.net/www/info/punkt-a). Other options are subscribing to the [RSS feed](/en/events/index.xml) or adding our [calendar with all trainings in .ics format](/en/events/index.ics) in an application of your choice. When using the calendar option, please specify the URL in the application (instead of downloading and importing the file) so your calendar stays in sync with the website.
+You can get informed about changes in the trainings list via {{< link "https://signal.org" >}}Signal messenger{{< /link >}} (get in touch via e-mail or during a training session for more details) oder subscribe to our {{< link "https://lists.riseup.net/www/info/punkt-a" >}}mailing list{{< /link >}}. Other options are subscribing to the {{< link "/en/events/index.xml" >}}RSS feed{{< /link >}} or adding our {{< link "/en/events/index.ics" >}}calendar with all trainings in .ics format{{< /link >}} in an application of your choice. When using the calendar option, please specify the URL in the application (instead of downloading and importing the file) so your calendar stays in sync with the website.
 {{< /qa >}}
 {{< qa "Does participating cost any money?" >}}
 No.
@@ -41,7 +41,7 @@ No, not under the Punkt A "label"/on this website. Punkt A is explicitely about 
 &nbsp;
 ## Parkour itself
 {{< qa "What is Parkour?" >}}
-Parkour was initially about the most efficient way of movement from one place to anotherwith nothing but one's own body and while overcoming any obstacles in the way. Today the term isn't used that strictly but also includes free running which introduces more "inefficient" movement such as flips or other "flow" moves. You can read more about all that in the [Wikipedia article about Parkour](https://en.wikipedia.org/wiki/Parkour).
+Parkour was initially about the most efficient way of movement from one place to anotherwith nothing but one's own body and while overcoming any obstacles in the way. Today the term isn't used that strictly but also includes free running which introduces more "inefficient" movement such as flips or other "flow" moves. You can read more about all that in the {{< link "https://en.wikipedia.org/wiki/Parkour" >}}Wikipedia article about Parkour{{< /link >}}.
 {{< /qa >}}
 {{< qa "What do I need to do Parkour?" >}}
 Two things are relevant: Clothing and shoes. Your clothing should't limit your mobility, ideal are most kinds of "sports clothing" or "loose clothing" that you don't trip over. E.g. skinny jeans might limit your movement too much. Your shoes shouldn't be too stiff so you still feel the surfaces with your feet. Most kinds of trainers are fine but there are also a lot of normal sneakers that are very good for doing Parkour. "The best shoes for Parkour" are a science unto itself and it's a very individual thing. It's not that important when starting out.
@@ -69,17 +69,17 @@ Click on "About" at the top of the page.
 Parkour is often described as a method to get from point A to point B. "Punkt A" is German for "point A".
 {{< /qa >}}
 {{< qa "How was this website created?" >}}
-This website was created using the static website generator [Hugo](https://gohugo.io/). The source code for this site can be found on [GitHub](https://github.com/punkt-a/punkt-a.github.io) and it's also hosted using GitHub Pages. The theme was created from ground up just for this website. If you want a similar website and need help, feel free to get in touch via e-mail: punkt-aⒶsystemli.org.
+This website was created using the static website generator {{< link "https://gohugo.io/" >}}Hugo{{< /link >}}. The source code for this site can be found on {{< link "https://github.com/punkt-a/punkt-a.github.io" >}}GitHub{{< /link >}} and it's also hosted using GitHub Pages. {{< link "https://github.com/punkt-a/hugo-minimal-event-location" >}}The theme{{< /link >}} was created from ground up just for this website. If you want a similar website and need help, feel free to get in touch via e-mail: {{< email >}}.
 {{< /qa >}}
 {{< qa "Is there an RSS feed?" >}}
-Yes, one for [trainings](/en/events/index.xml) and one for [spots](/en/locations/index.xml).
+Yes, one for {{< link "/en/events/index.xml" >}}trainings{{< /link >}} and one for {{< link "/en/locations/index.xml" >}}spots{{< /link >}}.
 {{< /qa >}}
 {{< qa "Is there a map with all spots?" >}}
-Yes, all spots are continuously combined into a [.geojson file](/en/locations/index.geojson) which is used as source data for [uMap based on OpenStreetMap](https://umap.openstreetmap.fr/en/map/punkt-a-spots_746905).
+Yes, all spots are continuously combined into a {{< link "/en/locations/index.geojson" >}}.geojson file{{< /link >}} which is used as source data for {{< link "https://umap.openstreetmap.fr/en/map/punkt-a-spots_746905" >}}uMap based on OpenStreetMap{{< /link >}}.
 {{< /qa >}}
 {{< qa "Is there a calendar with all trainings?" >}}
-All trainings are continuously combined into a [.ics file](/en/events/index.ics). This URL can be used to add all trainings to your own calendar app. Specify the URL in the application (instead of downloading and importing the file) so your calendar stays synchronized.
+All trainings are continuously combined into a {{< link "/en/events/index.ics" >}}.ics file{{< /link >}}. This URL can be used to add all trainings to your own calendar app. Specify the URL in the application (instead of downloading and importing the file) so your calendar stays synchronized.
 {{< /qa >}}
 {{< qa "I have further questions!" >}}
-Contact us via e-mail at punkt-aⒶsystemli.org.
+Contact us via e-mail at {{< email >}}.
 {{< /qa >}}
