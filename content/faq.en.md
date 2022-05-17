@@ -69,7 +69,7 @@ Click on "About" at the top of the page.
 Parkour is often described as a method to get from point A to point B. "Punkt A" is German for "point A".
 {{< /qa >}}
 {{< qa "How was this website created?" >}}
-This website was created using the static website generator [Hugo](https://gohugo.io/). The source code for this site can be found on [GitHub](https://github.com/punkt-a/punkt-a.github.io) and it's also hosted using GitHub Pages. The theme was created from ground up just for this website. If you want a similar website and need help, feel free to get in touch via e-mail: punkt-aⒶmailbox.org.
+This website was created using the static website generator [Hugo](https://gohugo.io/). The source code for this site can be found on [GitHub](https://github.com/punkt-a/punkt-a.github.io) and it's also hosted using GitHub Pages. The theme was created from ground up just for this website. If you want a similar website and need help, feel free to get in touch via e-mail: punkt-aⒶsystemli.org.
 {{< /qa >}}
 {{< qa "Is there an RSS feed?" >}}
 Yes, one for [trainings](/en/events/index.xml) and one for [spots](/en/locations/index.xml).
@@ -81,5 +81,5 @@ Yes, all spots are continuously combined into a [.geojson file](/en/locations/in
 All trainings are continuously combined into a [.ics file](/en/events/index.ics). This URL can be used to add all trainings to your own calendar app. Specify the URL in the application (instead of downloading and importing the file) so your calendar stays synchronized.
 {{< /qa >}}
 {{< qa "I have further questions!" >}}
-Contact us via e-mail at punkt-aⒶmailbox.org. 
+Contact us via e-mail at punkt-aⒶsystemli.org.
 {{< /qa >}}

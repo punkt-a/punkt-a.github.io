@@ -68,7 +68,7 @@ Klick oben auf "About" für mehr Infos.
 Parkour wird oft als Methode beschrieben, um schnell von Punkt A zu Punkt B zu bekommen. Daher Punkt A.
 {{< /qa >}}
 {{< qa "Wie wurde diese Website erstellt?" >}}
-Mit dem Static Website Generator [Hugo](https://gohugo.io/). Den Quellcode zur Generierung gibt es auf [GitHub](https://github.com/punkt-a/punkt-a.github.io), die Website wird mit GitHub Pages gehostet. Das Theme wird komplett von Grund auf für diese Website erstellt. Falls du auch so eine Website haben magst und weitere Fragen dazu hast, nimm am besten Kontakt per E-Mail auf: punkt-aⒶmailbox.org.
+Mit dem Static Website Generator [Hugo](https://gohugo.io/). Den Quellcode zur Generierung gibt es auf [GitHub](https://github.com/punkt-a/punkt-a.github.io), die Website wird mit GitHub Pages gehostet. Das Theme wird komplett von Grund auf für diese Website erstellt. Falls du auch so eine Website haben magst und weitere Fragen dazu hast, nimm am besten Kontakt per E-Mail auf: punkt-aⒶsystemli.org.
 {{< /qa >}}
 {{< qa "Gibt es einen RSS-Feed?" >}}
 Ja, für die [Trainings](/events/index.xml) und auch für die [Spots](/locations/index.xml).
@@ -80,5 +80,5 @@ Die Spots werden kontinuierlich zu einer [.geojson-Datei](/locations/index.geojs
 Die Trainings werden kontinuierlich zu einer [.ics-Datei](/events/index.ics) verarbeitet. Die URL kann dann in diversen Kalenderanwendungen als neuer Kalender eingebunden werden. Die URL sollte in der Anwendung direkt angegeben werden (statt die Datei herunterzuladen und zu importieren), dann bleibt der Kalender synchronisiert.
 {{< /qa >}}
 {{< qa "Ich habe weitere Fragen!" >}}
-Bei weiteren Fragen, schreibt einfach eine E-Mail an punkt-aⒶmailbox.org.
+Bei weiteren Fragen, schreibt einfach eine E-Mail an punkt-aⒶsystemli.org.
 {{< /qa >}}
