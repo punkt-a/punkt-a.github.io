@@ -16,8 +16,8 @@ Klicke oben auf "Trainings", dort siehst du alle kommenden Trainings.
 {{< qa "Wo finden die Trainings statt?" >}}
 Das steht in jedem Trainingseintrag unter "Spot". Dort kannst du auch draufklicken. Jeder Spot ist mit exakten Koordinaten versehen, die beiden Links auf den Spot-Seiten werden dir helfen, dorthin zu finden.
 {{< /qa >}}
-{{< qa "Wie kann ich mich über neue Trainings informieren lassen?" >}}
-Es wird bald die Möglichkeit geben, sich über verschiedene Messenger und sogar via Mailinglist informieren zu lassen. Bis dahin kannst du es aber bspw. selbst mit dem [RSS-Feed](/events/index.xml) versuchen.
+{{< qa "Wie kann ich mich über neue Trainings benachrichtigen lassen?" >}}
+Du kannst Benachrichtigungen über neu eingetragene Trainings über den [Messenger Signal](https://signal.org) (melde dich für mehr Details per E-Mail oder sprich uns beim Training an) oder auch über eine [Mailingliste](https://lists.riseup.net/www/info/punkt-a) bekommen. Alternativ kannst du auch den RSS-Feed abonnieren [RSS-Feed](/events/index.xml) oder den [Kalender mit allen Trainings im .ics-Format](/events/index.ics) in einer Anwendung deiner Wahl einbinden. Beachte beim Kalender bitte, dass du die URL in der Anwendung angibst und nicht die Datei herunterlädst und importierst; so synchronisiert sich deine Anwendung regelmäßig mit der Website.
 {{< /qa >}}
 {{< qa "Kostet die Teilnahme etwas?" >}}
 Nein.

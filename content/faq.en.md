@@ -17,7 +17,7 @@ Click on "Trainings" at the top of the site, you'll see all upcoming (and past) 
 It's in every training entry under "Spot". You can click the spot there to get to the spot entry. The links there will lead you to the exact location.
 {{< /qa >}}
 {{< qa "Can I get notifications for newly added trainings?" >}}
-Notifications via messenger and mailing list are coming soon. Until then you may use the [RSS feed](/events/index.xml) directly.
+You can get informed about changes in the trainings list via [Signal messenger](https://signal.org) (get in touch via e-mail or during a training session for more details) oder subscribe to our [mailing list](https://lists.riseup.net/www/info/punkt-a). Other options are subscribing to the [RSS feed](/en/events/index.xml) or adding our [calendar with all trainings in .ics format](/en/events/index.ics) in an application of your choice. When using the calendar option, please specify the URL in the application (instead of downloading and importing the file) so your calendar stays in sync with the website.
 {{< /qa >}}
 {{< qa "Does participating cost any money?" >}}
 No.
