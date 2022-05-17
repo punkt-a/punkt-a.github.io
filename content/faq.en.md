@@ -35,7 +35,7 @@ Usually 2-3 times per week which depends on different conditions like weather, v
 Currently no. It's possible this will be a thing in the future. If you're interested in organizing this as part of Punkt A, get in touch.
 {{< /qa >}}
 {{< qa "Are there indoor Parkour gym sessions?" >}}
-No, not under the Punkt A "label"/on this website. Punkt A is explicitely about outside training sessions, especially because it's often not free of charge to use Parkour gyms.
+No, not under the Punkt A "label"/on this website. Punkt A is explicitely about outdoor training sessions, especially because it's often not free of charge to use Parkour gyms.
 {{< /qa >}}
 
 &nbsp;

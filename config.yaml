@@ -13,7 +13,7 @@ languages:
   en:
     weight: 2
     params:
-      defaultSummary: Do Parkour together, free of charge and outside in Hamburg.
+      defaultSummary: Do Parkour together, free of charge and outdoors in Hamburg.
 
 params:
   location: Spot
