@@ -4,6 +4,20 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Kaiserkai (HafenCity)",
+                "description": "Am Kaiserkai 8\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_kaiserkai/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.991676483156004,
+                    53.5417241189029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Schleemer Park (Billstedt)",
                 "description": "Kaspar-Siemers-Stieg 7\n22117 Hamburg\nhttps://www.punkt-a.net/en/locations/billstedt_schleemer-park/"
             },
