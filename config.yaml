@@ -36,9 +36,8 @@ params:
         alt: No copyright/public domain sign
 
 sitemap:
-  changefreq: weekly
+  changefreq: daily
   priority: 0.5
-enableRobotsTXT: yes
 
 menu:
   main:
