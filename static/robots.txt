@@ -1,0 +1,3 @@
+Sitemap: https://www.punkt-a.net/sitemap.xml
+User-agent: *
+Disallow:
