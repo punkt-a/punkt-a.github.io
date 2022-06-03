@@ -2,6 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:fb85d95e-d94c613a-0144-1b0e2477-b65c0000
+SUMMARY:Parkour training
+LOCATION:Kaiserkai (HafenCity)
+DESCRIPTION:Address:\n
+ Am Kaiserkai 8\n
+ 20457 Hamburg\n
+ Coordinates: 53.5417241189029, 9.991676483156004\n
+ https://www.punkt-a.net/en/events/training_2022-06-03/
+DTSTAMP:20220602T220000
+DTSTART:20220603T144500
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:d41f8ece-559423fc-e6e6-665a5cdb-018a0000
+SUMMARY:Parkour training
+LOCATION:S Hammerbrook (Hammerbrook)
+DESCRIPTION:Address:\n
+ Hammerbrookstraße 15\n
+ 20097 Hamburg\n
+ Coordinates: 53.54721356101074, 10.0220933545331\n
+ https://www.punkt-a.net/en/events/training_2022-05-30/
+DTSTAMP:20220529T220000
+DTSTART:20220530T160000
+DTEND:20220530T183000
+END:VEVENT
+BEGIN:VEVENT
 UID:fba84692-9f0e50e2-6041-dd235258-4a670000
 SUMMARY:Parkour training
 LOCATION:Kaiserkai (HafenCity)
