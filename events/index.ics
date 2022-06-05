@@ -2,66 +2,66 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
-UID:4a4bb9f8-52c0b5da-3b76-b817c835-cfcd0000
+UID:6fb0a7a1-b35bad1b-a7d4-0d0582d0-76f00000
 SUMMARY:Parkourtraining
 LOCATION:BS Burgstraße (Hamm)
 DESCRIPTION:Adresse:\n
  Burgstraße 33\n
  20535 Hamburg\n
  Koordinaten: 53.55634728949539, 10.039067277160031\n
- https://www.punkt-a.net/events/training_2022-06-04/
+ https://www.punkt-a.net/events/training_2022-06-04_1/
 DTSTAMP:20220603T220000
 DTSTART:20220604T160000
 DTEND:20220604T173000
 END:VEVENT
 BEGIN:VEVENT
-UID:b7f6ead6-d226f71e-5355-1acd573b-94a40000
+UID:826a2d88-b650458c-2be6-889be24a-a93a0000
 SUMMARY:Parkourtraining
 LOCATION:Kaiserkai (HafenCity)
 DESCRIPTION:Adresse:\n
  Am Kaiserkai 8\n
  20457 Hamburg\n
  Koordinaten: 53.5417241189029, 9.991676483156004\n
- https://www.punkt-a.net/events/training_2022-06-03/
+ https://www.punkt-a.net/events/training_2022-06-03_1/
 DTSTAMP:20220602T220000
 DTSTART:20220603T151500
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:66c2054f-4c5c251c-6d52-3603de73-d0890000
+UID:0a977509-3d611bde-fe30-2cd75dca-06630000
 SUMMARY:Parkourtraining
 LOCATION:S Hammerbrook (Hammerbrook)
 DESCRIPTION:Adresse:\n
  Hammerbrookstraße 15\n
  20097 Hamburg\n
  Koordinaten: 53.54721356101074, 10.0220933545331\n
- https://www.punkt-a.net/events/training_2022-05-30/
+ https://www.punkt-a.net/events/training_2022-05-30_1/
 DTSTAMP:20220529T220000
 DTSTART:20220530T160000
 DTEND:20220530T183000
 END:VEVENT
 BEGIN:VEVENT
-UID:6b5c4d9c-4a6f1c03-9f0a-b791783f-29040000
+UID:6190c8b2-ccb5cdd3-1368-61f90e95-b6270000
 SUMMARY:Parkourtraining
 LOCATION:Kaiserkai (HafenCity)
 DESCRIPTION:Adresse:\n
  Am Kaiserkai 8\n
  20457 Hamburg\n
  Koordinaten: 53.5417241189029, 9.991676483156004\n
- https://www.punkt-a.net/events/training_2022-05-23/
+ https://www.punkt-a.net/events/training_2022-05-23_1/
 DTSTAMP:20220522T220000
 DTSTART:20220523T150000
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:8e3ca643-c9efe605-a26c-a0e8a099-fdde0000
+UID:4daf0a50-6c793196-cc2b-98e73b31-33800000
 SUMMARY:Parkourtraining
 LOCATION:BS Burgstraße (Hamm)
 DESCRIPTION:Adresse:\n
  Burgstraße 33\n
  20535 Hamburg\n
  Koordinaten: 53.55634728949539, 10.039067277160031\n
- https://www.punkt-a.net/events/training_2022-05-22/
+ https://www.punkt-a.net/events/training_2022-05-22_1/
 DTSTAMP:20220520T220000
 DTSTART:20220522T133000
 DTEND:20220522T163000
