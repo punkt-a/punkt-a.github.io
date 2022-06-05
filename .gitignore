@@ -2,3 +2,4 @@ Dockerfile
 docker-compose.yaml
 resources
 .hugo_build.lock
+local_resources
