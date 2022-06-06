@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:b2ed73a5-a1efd259-7a85-7940d3a1-922f0000
+SUMMARY:Parkour training
+LOCATION:BS Ankelmannstraße (Borgfelde)
+DESCRIPTION:Address:\n
+ Anckelmannstraße 10\n
+ 20537 Hamburg\n
+ Coordinates: 53.55314843500607, 10.03262000375061\n
+ https://www.punkt-a.net/en/events/training_2022-06-06_1/
+DTSTAMP:20220605T220000
+DTSTART:20220606T150000
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:f025f2dc-ef87a380-d3c0-7b3025e8-8d790000
 SUMMARY:Parkour training
 LOCATION:BS Burgstraße (Hamm)
