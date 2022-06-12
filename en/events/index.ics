@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:f30036b4-62fa4285-d112-4bdd29b5-abd70000
+SUMMARY:Parkour training
+LOCATION:Holzhafen (Altona)
+DESCRIPTION:Address:\n
+ Große Elbstraße 63\n
+ 22767 Hamburg\n
+ Coordinates: 53.54429938677734, 9.942947344508617\n
+ https://www.punkt-a.net/en/events/training_2022-06-10_1/
+DTSTAMP:20220609T220000
+DTSTART:20220610T160000
+DTEND:20220610T190000
+END:VEVENT
+BEGIN:VEVENT
 UID:b2ed73a5-a1efd259-7a85-7940d3a1-922f0000
 SUMMARY:Parkour training
 LOCATION:BS Ankelmannstraße (Borgfelde)
