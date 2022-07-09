@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:5c45ae19-d248ac24-2d00-e31ddd71-67750000
+SUMMARY:Parkour training
+LOCATION:Magellan-Terrassen (HafenCity)
+DESCRIPTION:Address:\n
+ Magellan-Terrassen\n
+ 20457 Hamburg\n
+ Coordinates: 53.542332878871825, 9.992733548743107\n
+ https://www.punkt-a.net/en/events/training_2022-06-26_1/
+DTSTAMP:20220625T220000
+DTSTART:20220626T130000
+DTEND:20220626T150000
+END:VEVENT
+BEGIN:VEVENT
 UID:8b57070b-1d2aa94a-141b-6e6b7472-dba10000
 SUMMARY:Parkour training
 LOCATION:Unimensa (HafenCity)
