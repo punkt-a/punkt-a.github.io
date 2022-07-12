@@ -67,6 +67,9 @@ Klick oben auf "About" für mehr Infos.
 {{< qa "Woher kommt der Name \"Punkt A\"?"  >}}
 Parkour wird oft als Methode beschrieben, um schnell von Punkt A zu Punkt B zu bekommen. Daher Punkt A.
 {{< /qa  >}}
+{{< qa "Habt ihr was mit \"Point A Parkour\" aus den USA zu tun?"  >}}
+Nein. Das war tatsächlich reiner Zufall, beides ist relativ zeitgleich unter gleichem Namen in verschiedenen Sprachen entstanden. Ist aber wie wir finden ein ziemlich cooles Projekt: {{< link "https://www.pointaparkour.com/" >}}Point A Parkour{{< /link >}} 
+{{< /qa  >}}
 {{< qa "Wie wurde diese Website erstellt?"  >}}
 Mit dem Static Website Generator {{< link "https://gohugo.io/" >}}Hugo{{< /link >}}. Den Quellcode zur Generierung gibt es auf {{< link "https://github.com/punkt-a/punkt-a.github.io" >}}GitHub{{< /link >}}, die Website wird mit GitHub Pages gehostet. {{< link "https://github.com/punkt-a/hugo-minimal-event-location" >}}Das Theme{{< /link >}} wird komplett von Grund auf für diese Website erstellt. Falls du auch so eine Website haben magst und weitere Fragen dazu hast, nimm am besten Kontakt per E-Mail auf: {{< email  >}}.
 {{< /qa  >}}
