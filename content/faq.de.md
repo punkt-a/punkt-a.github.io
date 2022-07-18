@@ -17,7 +17,7 @@ Klicke oben auf "Trainings", dort siehst du alle kommenden Trainings.
 Das steht in jedem Trainingseintrag unter "Spot". Dort kannst du auch draufklicken. Jeder Spot ist mit exakten Koordinaten versehen, die beiden Links auf den Spot-Seiten werden dir helfen, dorthin zu finden.
 {{< /qa  >}}
 {{< qa "Wie kann ich mich über neue Trainings benachrichtigen lassen?"  >}}
-Du kannst Benachrichtigungen über neu eingetragene Trainings via {{< link "https://signal.org" >}}Signal{{< /link >}} (melde dich für mehr Details per E-Mail oder sprich uns beim Training an) oder auch über eine {{< link "https://lists.riseup.net/www/info/punkt-a" >}}Mailingliste{{< /link >}} bekommen. Außerdem gibt es einen {{< link "https://t.me/punktAbot" >}}Bot bei Telegram{{< /link >}}. Alternativ kannst du auch den {{< link "/events/index.xml" >}}RSS-Feed{{< /link >}} abonnieren  oder den {{< link "/events/index.ics" >}}Kalender mit allen Trainings im .ics-Format{{< /link >}} in einer Anwendung deiner Wahl einbinden. Beachte beim Kalender bitte, dass du die URL in der Anwendung angibst und nicht die Datei herunterlädst und importierst; so synchronisiert sich deine Anwendung regelmäßig mit der Website.
+Du kannst Benachrichtigungen über neu eingetragene Trainings via Messenger {{< link "https://signal.org" >}}Signal{{< /link >}} (melde dich für mehr Details per E-Mail oder sprich uns beim Training an) oder {{< link "https://t.me/punktAbot" >}}Telegram{{< /link >}} erhalten. Außerdem gibt es eine {{< link "https://lists.riseup.net/www/info/punkt-a" >}}Mailingliste{{< /link >}}. Alternativ kannst du auch den {{< link "/events/index.xml" >}}RSS-Feed{{< /link >}} abonnieren  oder den {{< link "/events/index.ics" >}}Kalender mit allen Trainings im .ics-Format{{< /link >}} in einer Anwendung deiner Wahl einbinden. Beachte beim Kalender bitte, dass du die URL in der Anwendung angibst und nicht die Datei herunterlädst und importierst; so synchronisiert sich deine Anwendung regelmäßig mit der Website.
 {{< /qa  >}}
 {{< qa "Kostet die Teilnahme etwas?"  >}}
 Nein.
@@ -29,7 +29,7 @@ Nein. Es kann natürlich sein, dass mal jemand mit so einem "Trainer*innenschein
 Nein. Wir sind kein Verein. Das heißt auch, dass alles im Rahmen von Punkt A auf eigene Gefahr der Teilnehmer*innen passiert.
 {{< /qa  >}}
 {{< qa "Wie oft finden Trainings statt?"  >}}
-In aller Regel etwa 2-3 Mal pro Woche. Das hängt aber von einigen Faktoren ab. Wenn für deinen Geschmack zu wenig Trainings stattfinden, schau gerne mal in den Abschnitt "Beitragen". 
+In aller Regel etwa 2-3 Mal pro Woche. Das hängt aber von einigen Faktoren wie Wetter und Jahreszeit ab. Wenn für deinen Geschmack zu wenig Trainings stattfinden, schau gerne mal in den Abschnitt "Beitragen".
 {{< /qa  >}}
 {{< qa "Gibt es regelmäßige Trainingstermine?"  >}}
 Aktuell nicht, nein. Es besteht aber natürlich die Möglichkeit, dass es sowas in Zukunft mal gibt. Wenn du Interesse daran hast, sowas im Rahmen von Punkt A zu organisieren, nutze gerne die Kontaktmöglichkeiten.
@@ -41,10 +41,10 @@ Nein, nicht im Rahmen der Trainings auf dieser Website. Bei Punkt A soll es aber
 &nbsp;
 ## Parkour an sich
 {{< qa "Was ist Parkour überhaupt?"  >}}
-Ursprünglich dreht es sich bei Parkour um das effiziente Fortbewegen von einem Ort zum anderen nur mit dem eigenen Körper und unter Überwindung von Hindernissen, die sich einer*m in den Weg stellen. Heute wird der Begriff meist nicht mehr so strikt verwendet, sondern schließt auch das "Freerunning" mit ein, also das Einbauen von ineffizienten Elementen wie Flips u.ä. Mehr dazu im {{< link "https://de.wikipedia.org/wiki/Parkour" >}}Wikipedia-Artikel zu Parkour{{< /link >}}.
+Ursprünglich drehte es sich bei Parkour um das effiziente Fortbewegen von einem Ort zum anderen nur mit dem eigenen Körper und unter Überwindung von Hindernissen, die sich einer*m in den Weg stellen. Heute wird der Begriff meist nicht mehr so strikt verwendet, sondern schließt auch das "Freerunning" mit ein, also das Einbauen von ineffizienten Elementen wie Flips u.ä. Mehr dazu im {{< link "https://de.wikipedia.org/wiki/Parkour" >}}Wikipedia-Artikel zu Parkour{{< /link >}}.
 {{< /qa  >}}
 {{< qa "Was brauche ich fürs Parkour-Training?"  >}}
-Relevant sind zwei Dinge: Kleidung und Schuhe. Deine Kleidung sollte dir viel Bewegungsfreiraum geben, bspw. also dehnbare "Sportkleidung" oder weite Kleidung, über die du aber nicht stolperst. Enge Jeans sind eher ungeeignet. Die Schuhe sollten keine zu festen Sohlen haben, sodass du noch was vom Untergrund spürst. Irgendwelche "Sportschuhe" oder auch andere Sneaker sind für den Anfang völlig egal. Die "besten" Schuhe für Parkour sind so eine Wissenschaft für sich und eine sehr individuelle Sache, die aber am Anfang erstmal egal ist.
+Relevant sind zwei Dinge: Kleidung und Schuhe. Deine Kleidung sollte dir viel Bewegungsfreiraum geben, bspw. also dehnbare "Sportkleidung" oder weite Kleidung, über die du aber nicht stolperst. Enge Jeans sind eher ungeeignet. Die Schuhe sollten keine zu festen Sohlen haben, sodass du noch was vom Untergrund spürst. Irgendwelche "Sportschuhe" oder auch andere Sneaker sind für den Anfang völlig ausreichend. Die "besten" Schuhe für Parkour sind so eine Wissenschaft für sich und eine sehr individuelle Sache, die aber am Anfang erstmal egal ist.
 {{< /qa  >}}
 
 &nbsp;
@@ -68,10 +68,10 @@ Klick oben auf "About" für mehr Infos.
 Parkour wird oft als Methode beschrieben, um schnell von Punkt A zu Punkt B zu bekommen. Daher Punkt A.
 {{< /qa  >}}
 {{< qa "Habt ihr was mit \"Point A Parkour\" aus den USA zu tun?"  >}}
-Nein. Das war tatsächlich reiner Zufall, beides ist relativ zeitgleich unter gleichem Namen in verschiedenen Sprachen entstanden. Ist aber wie wir finden ein ziemlich cooles Projekt: {{< link "https://www.pointaparkour.com/" >}}Point A Parkour{{< /link >}} 
+Nein. Das war tatsächlich reiner Zufall, beides ist relativ zeitgleich unter gleichem Namen in verschiedenen Sprachen entstanden. Ist aber wie wir finden ein ziemlich cooles Projekt: {{< link "https://www.pointaparkour.com/" >}}Point A Parkour{{< /link >}}
 {{< /qa  >}}
 {{< qa "Wie wurde diese Website erstellt?"  >}}
-Mit dem Static Website Generator {{< link "https://gohugo.io/" >}}Hugo{{< /link >}}. Den Quellcode zur Generierung gibt es auf {{< link "https://github.com/punkt-a/punkt-a.github.io" >}}GitHub{{< /link >}}, die Website wird mit GitHub Pages gehostet. {{< link "https://github.com/punkt-a/hugo-minimal-event-location" >}}Das Theme{{< /link >}} wird komplett von Grund auf für diese Website erstellt. Falls du auch so eine Website haben magst und weitere Fragen dazu hast, nimm am besten Kontakt per E-Mail auf: {{< email  >}}.
+Mit dem Static Website Generator {{< link "https://gohugo.io/" >}}Hugo{{< /link >}}. Den Quellcode zur Generierung gibt es auf {{< link "https://github.com/punkt-a/punkt-a.github.io" >}}GitHub{{< /link >}}, die Website wird mit GitHub Pages gehostet. Das {{< link "https://github.com/punkt-a/hugo-minimal-event-location" >}}Theme{{< /link >}} wurde komplett von Grund auf für diese Website erstellt. Falls du auch so eine Website haben magst und weitere Fragen dazu hast, nimm am besten Kontakt per E-Mail auf: {{< email >}}.
 {{< /qa  >}}
 {{< qa "Gibt es einen RSS-Feed?"  >}}
 Ja, für die {{< link "/events/index.xml" >}}Trainings{{< /link >}} und auch für die {{< link "/locations/index.xml" >}}Spots{{< /link >}}.
@@ -83,5 +83,5 @@ Die Spots werden kontinuierlich zu einer {{< link "/locations/index.geojson" >}}
 Die Trainings werden kontinuierlich zu einer {{< link "/events/index.ics" >}}.ics-Datei{{< /link >}} verarbeitet. Die URL kann dann in diversen Kalenderanwendungen als neuer Kalender eingebunden werden. Die URL sollte in der Anwendung direkt angegeben werden (statt die Datei herunterzuladen und zu importieren), dann bleibt der Kalender synchronisiert.
 {{< /qa  >}}
 {{< qa "Ich habe weitere Fragen!"  >}}
-Bei weiteren Fragen, schreibt einfach eine E-Mail an {{< email  >}}.
+Bei weiteren Fragen, schreibt einfach eine E-Mail an {{< email >}}.
 {{< /qa  >}}
