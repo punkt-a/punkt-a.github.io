@@ -10,12 +10,12 @@ languages:
     weight: 1
     params:
       defaultSummary: Zusammen, kostenlos und draußen Parkour in Hamburg trainieren.
-      announcement: "Hinweis: Wegen Verletzung aktuell Pause bis ca. September 2022."
+      # announcement: ""
   en:
     weight: 2
     params:
       defaultSummary: Do Parkour together, free of charge and outdoors in Hamburg.
-      announcement: "Notice: Because of injury we're taking a break until approx. September 2022."
+      # announcement: ""
 
 params:
   email: punkt-aⒶsystemli.org
