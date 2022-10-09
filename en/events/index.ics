@@ -17,11 +17,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2f8c63e3-d363f632-cf91-a8098dcb-c2e90000
 SUMMARY:Parkour training
-LOCATION:ITECH (Wilhelmsburg)
+LOCATION:Magellan-Terrassen (HafenCity)
 DESCRIPTION:Address:\n
- Dratelnstraße 26\n
- 21109 Hamburg\n
- Coordinates: 53.499507328032955, 10.00208768211585\n
+ Magellan-Terrassen\n
+ 20457 Hamburg\n
+ Coordinates: 53.542332878871825, 9.992733548743107\n
  https://www.punkt-a.net/en/events/training_2022-10-09_1/
 DTSTAMP:20221007T220000Z
 DTSTART:20221009T110000Z
