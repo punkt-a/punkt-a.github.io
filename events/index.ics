@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:1a60d0a1-1d30f48a-df49-cbcdc536-cff60000
+SUMMARY:Parkourtraining
+LOCATION:BS Burgstraße (Hamm)
+DESCRIPTION:Adresse:\n
+ Burgstraße 33\n
+ 20535 Hamburg\n
+ Koordinaten: 53.55634728949539, 10.039067277160031\n
+ https://www.punkt-a.net/events/training_2022-10-15_1/
+DTSTAMP:20221014T220000Z
+DTSTART:20221015T124500Z
+DTEND:20221015T140000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:b7d7bf0a-a7dc7a85-61a5-7c8c3b01-85690000
 SUMMARY:Parkourtraining
 LOCATION:BS Ankelmannstraße (Borgfelde)
