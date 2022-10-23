@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:0b1a8fc6-e01c2037-de65-927df0fd-d3890000
+SUMMARY:Parkour training
+LOCATION:Vasco-da-Gama-Platz (HafenCity)
+DESCRIPTION:Address:\n
+ Vasco-da-Gama-Platz\n
+ 20457 Hamburg\n
+ Coordinates: 53.541145137512714, 9.990494864664713\n
+ https://www.punkt-a.net/en/events/training_2022-10-23_1/
+DTSTAMP:20221022T220000Z
+DTSTART:20221023T113000Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:1d000c4d-7d3ede34-7baa-b93d005e-47f90000
 SUMMARY:Parkour training
 LOCATION:BS Burgstraße (Hamm)
