@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:fb8409bf-9d6e022f-7979-8d819649-a1880000
+SUMMARY:Parkourtraining
+LOCATION:S Hammerbrook (Hammerbrook)
+DESCRIPTION:Adresse:\n
+ Hammerbrookstraße 15\n
+ 20097 Hamburg\n
+ Koordinaten: 53.54721356101074, 10.0220933545331\n
+ https://www.punkt-a.net/events/training_2022-10-30_1/
+DTSTAMP:20221029T220000Z
+DTSTART:20221030T123000Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:4133e516-81edf9b2-474e-167a7841-5ee90000
 SUMMARY:Parkourtraining
 LOCATION:Vasco-da-Gama-Platz (HafenCity)
