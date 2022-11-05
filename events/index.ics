@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:2796e7fc-a0ba23e4-1d42-2a3f4d36-d8400000
+SUMMARY:Parkourtraining
+LOCATION:BS Ankelmannstraße (Borgfelde)
+DESCRIPTION:Adresse:\n
+ Anckelmannstraße 10\n
+ 20537 Hamburg\n
+ Koordinaten: 53.55314843500607, 10.03262000375061\n
+ https://www.punkt-a.net/events/training_2022-11-05_1/
+DTSTAMP:20221104T230000Z
+DTSTART:20221105T140000Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:426778bc-e36b9505-9914-47fc1812-f5260000
 SUMMARY:Parkourtraining
 LOCATION:Magellan-Terrassen (HafenCity)
