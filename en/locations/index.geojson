@@ -4,6 +4,20 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "CCH (Dammtor)",
+                "description": "Congressplatz 1\n20355 Hamburg\nhttps://www.punkt-a.net/en/locations/dammtor_cch/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.986729288220259,
+                    53.56122651734074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Kaiserkai (HafenCity)",
                 "description": "Am Kaiserkai 8\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_kaiserkai/"
             },
