@@ -4,6 +4,20 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Amerigo-Vespucci-Platz (HafenCity)",
+                "description": "Amerigo-Vespucci-Platz\n20457 Hamburg\nhttps://www.punkt-a.net/locations/hafencity_amerigo-vespucci-platz/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.02094068174743,
+                    53.53674235212994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "CCH (Dammtor)",
                 "description": "Congressplatz 1\n20355 Hamburg\nhttps://www.punkt-a.net/locations/dammtor_cch/"
             },

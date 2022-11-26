@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:14fbc04b-126575ae-45fa-d1a7b644-88d80000
+SUMMARY:Parkourtraining
+LOCATION:Amerigo-Vespucci-Platz (HafenCity)
+DESCRIPTION:Adresse:\n
+ Amerigo-Vespucci-Platz\n
+ 20457 Hamburg\n
+ Koordinaten: 53.53674235212994, 10.02094068174743\n
+ https://www.punkt-a.net/events/training_2022-11-21_1/
+DTSTAMP:20221120T230000Z
+DTSTART:20221121T130000Z
+DTEND:20221121T151500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:42b72882-b3a30557-d07b-9a1cc617-56ed0000
 SUMMARY:Parkourtraining
 LOCATION:BS Burgstraße (Hamm)
