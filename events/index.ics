@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:0e8a0410-3790a38d-240a-d309f6eb-c0880000
+SUMMARY:Parkourtraining
+LOCATION:Kaiserkai (HafenCity)
+DESCRIPTION:Adresse:\n
+ Am Kaiserkai 8\n
+ 20457 Hamburg\n
+ Koordinaten: 53.5417241189029, 9.991676483156004\n
+ https://www.punkt-a.net/events/training_2022-12-03_1/
+DTSTAMP:20221202T230000Z
+DTSTART:20221203T130000Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:14fbc04b-126575ae-45fa-d1a7b644-88d80000
 SUMMARY:Parkourtraining
 LOCATION:Amerigo-Vespucci-Platz (HafenCity)
