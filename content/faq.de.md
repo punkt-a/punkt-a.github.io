@@ -29,7 +29,7 @@ Nein. Es kann natürlich sein, dass mal jemand mit so einem "Trainer*innenschein
 Nein. Wir sind kein Verein. Das heißt auch, dass alles im Rahmen von Punkt A auf eigene Gefahr der Teilnehmer*innen passiert.
 {{< /qa  >}}
 {{< qa "Wie oft finden Trainings statt?"  >}}
-In aller Regel etwa 2-3 Mal pro Woche. Das hängt aber von einigen Faktoren wie Wetter und Jahreszeit ab. Wenn für deinen Geschmack zu wenig Trainings stattfinden, schau gerne mal in den Abschnitt "Beitragen".
+In aller Regel etwa 1-3 Mal pro Woche. Das hängt aber von einigen Faktoren wie Wetter und Jahreszeit ab. Wenn für deinen Geschmack zu wenig Trainings stattfinden, schau gerne mal in den Abschnitt "Beitragen".
 {{< /qa  >}}
 {{< qa "Gibt es regelmäßige Trainingstermine?"  >}}
 Aktuell nicht, nein. Es besteht aber natürlich die Möglichkeit, dass es sowas in Zukunft mal gibt. Wenn du Interesse daran hast, sowas im Rahmen von Punkt A zu organisieren, nutze gerne die Kontaktmöglichkeiten.

@@ -29,7 +29,7 @@ No. It's possible that someone with a Parkour trainer license also participates 
 No. We're not a registered association.
 {{< /qa >}}
 {{< qa "How often do Parkour sessions take place?" >}}
-Usually 2-3 times per week which depends on different conditions like weather, season, vacations etc. If you want to train with others more often, look into the "Contribute" section.
+Usually 1-3 times per week which depends on different conditions like weather, season, vacations etc. If you want to train with others more often, look into the "Contribute" section.
 {{< /qa >}}
 {{< qa "Are there periodic training sessions?" >}}
 Currently no. It's possible this will be a thing in the future. If you're interested in organizing this as part of Punkt A, get in touch.
