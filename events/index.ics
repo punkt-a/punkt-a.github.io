@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:4ec16b95-45614e36-d87f-f3242a8b-edd60000
+SUMMARY:Parkourtraining
+LOCATION:Vasco-da-Gama-Platz (HafenCity)
+DESCRIPTION:Adresse:\n
+ Vasco-da-Gama-Platz\n
+ 20457 Hamburg\n
+ Koordinaten: 53.541145137512714, 9.990494864664713\n
+ https://www.punkt-a.net/events/training_2023-01-01_1/
+DTSTAMP:20221231T230000Z
+DTSTART:20230101T121500Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:0e8a0410-3790a38d-240a-d309f6eb-c0880000
 SUMMARY:Parkourtraining
 LOCATION:Kaiserkai (HafenCity)
