@@ -2,6 +2,45 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:10ac5c66-645eb48d-293b-36b3e107-72fc0000
+SUMMARY:Parkour training
+LOCATION:Magellan-Terrassen (HafenCity)
+DESCRIPTION:Address:\n
+ Magellan-Terrassen\n
+ 20457 Hamburg\n
+ Coordinates: 53.542332878871825, 9.992733548743107\n
+ https://www.punkt-a.net/en/events/training_2023-03-06_1/
+DTSTAMP:20230305T230000Z
+DTSTART:20230306T130000Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:97f7ba44-3ceccb4e-6ce3-50ecea9d-10e60000
+SUMMARY:Parkour training
+LOCATION:Säulen (Mümmelmannsberg)
+DESCRIPTION:Address:\n
+ Kadinskyallee 75\n
+ 22115 Hamburg\n
+ Coordinates: 53.532484491379876, 10.150046860709676\n
+ https://www.punkt-a.net/en/events/training_2023-02-27_1/
+DTSTAMP:20230226T230000Z
+DTSTART:20230227T093000Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:1565e11d-131c23bd-1053-3e158a56-bff30000
+SUMMARY:Parkour training
+LOCATION:BS Ankelmannstraße (Borgfelde)
+DESCRIPTION:Address:\n
+ Anckelmannstraße 10\n
+ 20537 Hamburg\n
+ Coordinates: 53.55314843500607, 10.03262000375061\n
+ https://www.punkt-a.net/en/events/training_2023-02-26_1/
+DTSTAMP:20230225T230000Z
+DTSTART:20230226T151500Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:dcb412af-cc4aa825-aff4-fe51d864-05640000
 SUMMARY:Parkour training
 LOCATION:Vasco-da-Gama-Platz (HafenCity)

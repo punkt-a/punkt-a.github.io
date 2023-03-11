@@ -4,6 +4,62 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Planten un Bloomen (Dammtor)",
+                "description": "Tiergartenstraße 10\n20355 Hamburg\nhttps://www.punkt-a.net/locations/dammtor_planten-un-bloomen/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.984918798203566,
+                    53.56091939620365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lohsepark (HafenCity)",
+                "description": "Am Lohsepark\n20457 Hamburg\nhttps://www.punkt-a.net/locations/hafencity_lohsepark/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.005590747515187,
+                    53.54267925194666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Säulen (Mümmelmannsberg)",
+                "description": "Kadinskyallee 75\n22115 Hamburg\nhttps://www.punkt-a.net/locations/muemmelmannsberg_saeulen/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.150046860709676,
+                    53.532484491379876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zentrum (Mümmelmannsberg)",
+                "description": "Feiningerstraße 16\n22115 Hamburg\nhttps://www.punkt-a.net/locations/muemmelmannsberg_zentrum/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.148142277974681,
+                    53.52842089078181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Amerigo-Vespucci-Platz (HafenCity)",
                 "description": "Amerigo-Vespucci-Platz\n20457 Hamburg\nhttps://www.punkt-a.net/locations/hafencity_amerigo-vespucci-platz/"
             },
