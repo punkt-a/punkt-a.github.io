@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:d2c8f32a-e5e5b357-5232-20bf5a49-2b970000
+SUMMARY:Parkour training
+LOCATION:BS Ankelmannstraße (Borgfelde)
+DESCRIPTION:Address:\n
+ Anckelmannstraße 10\n
+ 20537 Hamburg\n
+ Coordinates: 53.55314843500607, 10.03262000375061\n
+ https://www.punkt-a.net/en/events/training_2023-04-09_1/
+DTSTAMP:20230408T220000Z
+DTSTART:20230409T130000Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:7948005e-b4c7233a-1d31-7931a393-00c20000
 SUMMARY:Parkour training
 LOCATION:Magellan-Terrassen (HafenCity)
