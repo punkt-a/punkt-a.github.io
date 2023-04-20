@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
-UID:03ca745d-603f21df-9150-ac3a0fe5-5d4c0000
-SUMMARY:Parkour training
-LOCATION:Legien-Center (Horn)
-DESCRIPTION:Address:\n
- Kirchlinden 2\n
- 22111 Hamburg\n
- Coordinates: 53.542775211846404, 10.097115952103515\n
- https://www.punkt-a.net/en/events/training_2023-04-20_1/
-DTSTAMP:20230418T220000Z
-DTSTART:20230420T151500Z
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:d65cf758-f1e3137d-4d6e-9dec1563-10360000
 SUMMARY:Parkour training
 LOCATION:Legien-Center (Horn)
