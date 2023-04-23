@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:21b05a66-abea403e-1881-b1aa1988-72b20000
+SUMMARY:Parkour training
+LOCATION:Amerigo-Vespucci-Platz (HafenCity)
+DESCRIPTION:Address:\n
+ Amerigo-Vespucci-Platz\n
+ 20457 Hamburg\n
+ Coordinates: 53.53674235212994, 10.02094068174743\n
+ https://www.punkt-a.net/en/events/training_2023-04-21_1/
+DTSTAMP:20230420T220000Z
+DTSTART:20230421T121500Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:d65cf758-f1e3137d-4d6e-9dec1563-10360000
 SUMMARY:Parkour training
 LOCATION:Legien-Center (Horn)
