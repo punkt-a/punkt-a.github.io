@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:276b9e60-399c3a4b-0abc-0b5218b3-05240000
+SUMMARY:Parkourtraining
+LOCATION:S Hammerbrook (Hammerbrook)
+DESCRIPTION:Adresse:\n
+ Hammerbrookstraße 15\n
+ 20097 Hamburg\n
+ Koordinaten: 53.54721356101074, 10.0220933545331\n
+ https://www.punkt-a.net/events/training_2023-05-07_1/
+DTSTAMP:20230506T220000Z
+DTSTART:20230507T170000Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:019ea4ae-8a44cc83-9134-8e6c5246-85240000
 SUMMARY:Parkourtraining
 LOCATION:Magellan-Terrassen (HafenCity)
