@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:019ea4ae-8a44cc83-9134-8e6c5246-85240000
+SUMMARY:Parkourtraining
+LOCATION:Magellan-Terrassen (HafenCity)
+DESCRIPTION:Adresse:\n
+ Magellan-Terrassen\n
+ 20457 Hamburg\n
+ Koordinaten: 53.542332878871825, 9.992733548743107\n
+ https://www.punkt-a.net/events/training_2023-05-04_1/
+DTSTAMP:20230503T220000Z
+DTSTART:20230504T154500Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:61fe9ac4-8452c8a3-94bb-2a4b0477-ed210000
 SUMMARY:Parkourtraining
 LOCATION:Amerigo-Vespucci-Platz (HafenCity)
