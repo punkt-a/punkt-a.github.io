@@ -4,6 +4,20 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Spiegelgebaeude (Speicherstadt)",
+                "description": "Ericuspromenade\n20457 Hamburg\nhttps://www.punkt-a.net/locations/speicherstadt_spiegelgebaeude/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0036475745497,
+                    53.54611786250019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Planten un Bloomen (Dammtor)",
                 "description": "Tiergartenstraße 10\n20355 Hamburg\nhttps://www.punkt-a.net/locations/dammtor_planten-un-bloomen/"
             },
