@@ -1,7 +1,7 @@
 ---
 publishdate: 2023-06-05
 linktitle: speicherstadt_spiegelgebaeude
-title: Spiegelgebaeude
+title: Spiegelgebäude
 district: Speicherstadt
 latitude: 53.54611786250019
 longitude: 10.0036475745497
