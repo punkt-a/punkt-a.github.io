@@ -2,6 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
+UID:fe1db402-d3597de1-1b06-85efcb67-c87f0000
+SUMMARY:Parkourtraining
+LOCATION:Legien-Center (Horn)
+DESCRIPTION:Adresse:\n
+ Kirchlinden 2\n
+ 22111 Hamburg\n
+ Koordinaten: 53.542775211846404, 10.097115952103515\n
+ https://www.punkt-a.net/events/training_2023-06-15_1/
+DTSTAMP:20230613T220000Z
+DTSTART:20230615T150000Z
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
 UID:0700a5ee-248ee691-fe7e-a31c2072-67690000
 SUMMARY:Parkourtraining
 LOCATION:Magellan-Terrassen (HafenCity)
