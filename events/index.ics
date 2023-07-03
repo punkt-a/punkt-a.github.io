@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Punkt A//NONSGML Training Calendar//EN
 BEGIN:VEVENT
-UID:8edadfc1-bbb1bdab-e10b-faf5e439-5ffd0000
-SUMMARY:Parkourtraining
-LOCATION:BS Burgstraße (Hamm)
-DESCRIPTION:Adresse:\n
- Burgstraße 33\n
- 20535 Hamburg\n
- Koordinaten: 53.55634728949539, 10.039067277160031\n
- https://www.punkt-a.net/events/training_2023-07-02_2/
-DTSTAMP:20230701T220000Z
-DTSTART:20230702T083000Z
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:9e73ab6e-eabb319e-267c-7a28e361-7a930000
 SUMMARY:Parkourtraining
 LOCATION:BS Burgstraße (Hamm)
