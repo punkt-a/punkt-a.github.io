@@ -10,12 +10,12 @@ languages:
     weight: 1
     params:
       defaultSummary: Zusammen, kostenlos und draußen Parkour in Hamburg trainieren.
-      announcement: "Wegen Urlaub und so geht es hier voraussichtlich im September weiter..."
+      announcement: "Aktuell ist bisschen die Luft raus, bei Interesse an Trainings schreibt eine Mail! :)"
   en:
     weight: 2
     params:
       defaultSummary: Do Parkour together, free of charge and outdoors in Hamburg.
-      announcement: "Due to vacation new trainings will probably continue in September..."
+      announcement: "No announced trainings at the moment, get in touch via e-mail if you're interested! :)"
 
 params:
   email: punkt-aⒶsystemli.org
