@@ -102,6 +102,20 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Treppe Kreuzung (Horn)",
+                "description": "Horner Landstraße 416\n22111 Hamburg\nhttps://www.punkt-a.net/en/locations/horn_treppe-kreuzung/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.09538917737606,
+                    53.542421285254775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Kaiserkai (HafenCity)",
                 "description": "Am Kaiserkai 8\n20457 Hamburg\nhttps://www.punkt-a.net/en/locations/hafencity_kaiserkai/"
             },
